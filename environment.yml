@@ -10,5 +10,4 @@ dependencies:
   - matplotlib=3.5.2
   - nltk=3.7
   - scikit-learn=1.0.2
-  - textblob=0.18.0.post0
   - vaderSentiment=3.3.2
